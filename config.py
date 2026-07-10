@@ -1,6 +1,6 @@
 KEY_PATH = r"C:\Users\vigne\Downloads\new_cowire.pem"
 
-HOST = "ubuntu@54.234.206.77"
+HOST = "ubuntu@Ipaddr_of_machine"
 
 USERNAME = "ubuntu"
 
