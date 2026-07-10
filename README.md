@@ -346,7 +346,7 @@ sh swan
 
 <img width="1918" height="402" alt="Screenshot 2026-07-10 152011" src="https://github.com/user-attachments/assets/d709af5d-7449-4909-80eb-101863a64f91" />
 
-<img width="545" height="687" alt="Screenshot 2026-07-09 211719" src="https://github.com/user-attachments/assets/aed808e4-7196-47c8-851e-b1d26e7e031a" />
+<img width="1907" height="985" alt="Screenshot 2026-07-10 151501" src="https://github.com/user-attachments/assets/b21fda8f-9459-4de3-98ca-0832cf2d0c8a" />
 
 <img width="1886" height="732" alt="Screenshot 2026-07-10 152131" src="https://github.com/user-attachments/assets/f050ace1-5307-4a84-ae5a-4ccc482567f8" />
 
